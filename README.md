@@ -3,8 +3,10 @@
 <div align="center">
 
 ## 🔗 Profile Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bhawana30.github.io/myPortfolio/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bhawana30.github.io/myportfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhawana-khurana-562413171/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://bhawana30.github.io/myportfolio/)
+  
 
 
 </div>
