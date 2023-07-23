@@ -14,9 +14,9 @@
 
 - 👋 Hi, I’m @bhawana
 - 👀 i love coding 
-- 🌱 I’m currently learning ExpressJS, data structure and algorithm.
+- 🌱 I’m currently learning Django, Data structure and algorithm.
 - 🧑‍💻 Doing Competitive programing on cf nd cc
-- 💞️ I’m looking to collaborate on web developing
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me - you can msg me on insta- <a href ="https://www.instagram.com/bhawana.khurana/">@bhawana.khurana</a> , Email: bhawanakhurana15@gmail.com
 
 [![@bhawanakhurana's Holopin board](https://holopin.me/bhawanakhurana)](https://holopin.io/@bhawanakhurana)
